@@ -1,0 +1,4 @@
+package: github.com/saravanan30erd/haproxy-dos-monitor
+import:
+- package: github.com/bcicen/go-haproxy
+- package: github.com/ashwanthkumar/slack-go-webhook

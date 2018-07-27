@@ -1,0 +1,22 @@
+hash: ca0537dbac638ef14a78c05bedf4b38b52ddfcee676261012717e2d72cdfa4d8
+updated: 2017-08-08T08:12:33.800073952Z
+imports:
+- name: github.com/ashwanthkumar/slack-go-webhook
+  version: fe52e9bf2b376c1d74222c8deabda62fe3f29ed3
+- name: github.com/bcicen/go-haproxy
+  version: 46e7edb10f5adcc0f922d836fab0d48677c1f2ff
+  subpackages:
+  - kvcodec
+- name: github.com/gocarina/gocsv
+  version: eb0665f781337b21e8e193c6f888e2acaa0ff7e4
+- name: github.com/moul/http2curl
+  version: 4e24498b31dba4683efb9d35c1c8a91e2eda28c8
+- name: github.com/parnurzeal/gorequest
+  version: 5bf13be198787abbed057fb7c4007f372083a0f5
+- name: github.com/pkg/errors
+  version: c605e284fe17294bda444b34710735b29d1a9d90
+- name: golang.org/x/net
+  version: 090ebbdfc2aff44cc6674372b72e02e731f7f0ef
+  subpackages:
+  - publicsuffix
+testImports: []
