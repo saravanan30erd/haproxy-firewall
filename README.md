@@ -1,4 +1,4 @@
-# haproxy-dos-monitor
+# haproxy-firewall
   Haproxy supports ratelimit per IP for specific URLs.
   Example:
   Haproxy is configured to blacklist the ips which accessed the specific urls(/signin) more than 5 times in 60s.
